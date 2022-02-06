@@ -270,7 +270,7 @@ SBPlaceholder是一个基于PlaceholderAPI由小明(QQ:1360197420)开发的插�
   解析其他占位符，并且在插件版本1.3.1后可以在占位符后使用 **as [目标名]** 的格式来解析其他玩家的占位符。
 
   ```
-  # 获取玩家的等级
+  # 获取玩家自己的等级
   %s_papi(player_level)%
   > 20
   ```
@@ -348,7 +348,9 @@ SBPlaceholder是一个基于PlaceholderAPI由小明(QQ:1360197420)开发的插�
 
 这个占位符会更具玩家当前的生命值画出一个漂亮的文本，图片中的i或是两侧的方括号或是颜色都可以自由的任意更改。
 
-![Z{4~[BAT$XK90TMUY(33669](file:///C:/Users/xm/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg)![HDCC]VRK85L{SPOYC_J4`RI](file:///C:/Users/xm/AppData/Local/Temp/msohtmlclip1/01/clip_image004.jpg)
+![exHealth1](https://user-images.githubusercontent.com/59652585/152693988-26d787d4-7128-402f-9ba8-4db57df25614.png)
+![exHealth2](https://user-images.githubusercontent.com/59652585/152693991-a67e203f-2cb2-4f95-b8ac-f4464e2b65c8.png)
+
 
 ### 3. 获取所有在线玩家的生命值
 
